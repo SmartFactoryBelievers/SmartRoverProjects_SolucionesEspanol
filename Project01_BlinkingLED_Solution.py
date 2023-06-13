@@ -1,4 +1,4 @@
-# Project 1
+# Proyecto 1
 
 # Learning to program and use outputs
 
